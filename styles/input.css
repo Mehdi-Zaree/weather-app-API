@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: PoetsenOne;
+    src: url(../fonts/PoetsenOne-Regular.ttf);
+}
+/*.hamid {*/
+/*    transform: translateZ(10px);*/
+/*}*/
+
+* {
+    transform-style: preserve-3d;
+}

@@ -1,6 +1,5 @@
 # weather-app-API
 ## open with vpn
-<a href="https://mehdi-zaree.github.io/weather-app-API">demo link</a>
 <p align="center"> what's good guys?🔥</p>
 <p align="center">
 <a href="https://mehdi-zaree.github.io/weather-app-API">demo link</a> .

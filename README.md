@@ -20,7 +20,7 @@
 - fetch API (async, await)
 ## :page_facing_up: Description
 Hello everyone, in this repository my friend and I developed a weather app fully responsive with API of different cities and locations and four-day forecast.</br>
-my colleague: @hamidrjpr2
+my colleague: @hamidrjpr2</br>
 supervised by: Parsa Ghorbanian</br>
 date:2024/08/03
 ## :iphone: Contact

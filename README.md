@@ -6,7 +6,7 @@
 <a href="https://github.com/Mehdi-Zaree/weather-app-API/issues">report bug</a> .
 <a href="https://github.com/Mehdi-Zaree/weather-app-API/issues">requesting feature</a></p>
 <img src="https://github.com/user-attachments/assets/bfcf3add-628c-4bdf-a4b6-e31e16dc9c57"></img>
-<img src="https://github.com/user-attachments/assets/0487d1a6-1eee-4d60-8101-865bb9a39ecc" style="width : 100px "></img>
+<img src="https://github.com/user-attachments/assets/0487d1a6-1eee-4d60-8101-865bb9a39ecc" style="width : 100% "></img>
 </p>
 
 ## :computer: Technologies 
